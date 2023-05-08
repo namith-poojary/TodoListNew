@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/*.singleTodo{
+border-radius: 50px;
+margin: 10px 0;
+background-color: aqua;
+padding: 10px 20px;
+display: flex;
+width:450px;
+align-items: center;
+
+}*/
